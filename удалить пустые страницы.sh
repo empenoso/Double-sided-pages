@@ -26,7 +26,7 @@ for file in *.pdf; do
     size=$(wc -c < "$page")
     if [[ $size -lt 35000 ]]; then
       echo "Удаляем $page (размер: $size байт)..." >> "$log_file"
-	  mv "$page" "removed/"
+      mv "$page" "removed/"
       #rm "$page"
     fi
   done
