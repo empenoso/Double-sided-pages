@@ -8,7 +8,7 @@ After all, if the document consists of only a few pages, then there is no need t
 
 But what if an A4 document has several tens or even hundreds of pages?
 
-Solution:
+Solution: [запуск двусторонней склейки.bat](https://github.com/empenoso/Double-sided-pages/blob/main/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%B4%D0%B2%D1%83%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B5%D0%B9%20%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B8.bat)
 
 # How to remove blank back pages from PDF after duplex scanning?
 
@@ -16,4 +16,4 @@ After solving the problem of quickly scanning large double-sided documents, anot
 
 Of course, you can delete a few pages from a PDF manually, but what if there are hundreds of such files?
 
-Solution:
+Solution: [удалить пустые страницы.sh](https://github.com/empenoso/Double-sided-pages/blob/main/%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D1%8C%20%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%B5%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B.sh)
